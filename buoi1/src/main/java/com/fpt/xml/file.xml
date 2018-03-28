@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<listStudent>
+    <student>
+        <id>99</id>
+        <name>thanh</name>
+    </student>
+    <student>
+        <id>772</id>
+        <name>t11hanh222</name>
+    </student>
+</listStudent>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListStudent>
+    <Student class="c1608g1">
+        <id type="int">100</id>
+        <name type="String">lethanh</name>
+    </Student>
+</ListStudent>
