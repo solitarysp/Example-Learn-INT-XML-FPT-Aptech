@@ -12,4 +12,8 @@
         <id type="int">1002</id>
         <name type="String">lethanh1</name>
     </Student>
+<Student class="c1608g1">
+<id type="int">1002</id>
+<name type="String">lethanh1</name>
+</Student>
 </ListStudent>
